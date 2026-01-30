@@ -1,14 +1,41 @@
-# Backend
+A full-stack Healthcare Operations Platform built using the MERN stack (MongoDB, Express.js, React, Node.js).
+This project focuses on designing and implementing core healthcare workflows with secure authentication and role-based access.
 
-## Packages Used
+🚀 Features
 
-1. cors : We can allows the frontend ip to access backend
-2. dotenv : Using this we can use enviorment variables
-3. express : Using this we can we can create apis
-4. jsonwebtoken : Using this we can enables the user authentication so that user can login
-5. mongoose : this will manage our database connectivity
-6. multer : This will allows us to store our images on our coludinary storage
-7. nodemon : this will restart our app when use make any changes in backend
-8. validator : we validate the user data coming from frontend
-9. cloudinary : this is a popular cloud-based image and video management service
-10. bcrypt : using this we will encrypt our user password and stored in database
+Role-based access control (Admin / Doctor / Patient)
+
+Secure user authentication using JWT
+
+Modular backend architecture (controllers, routes, models)
+
+Scalable RESTful APIs
+
+Modern React-based frontend UI
+
+Clean and maintainable code structure
+
+🛠️ Tech Stack
+Frontend
+
+React
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB (Mongoose)
+
+JWT Authentication
+
+REST APIs
+
+
+
+
